@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.1</version>
+    <title>$title$</title>
+    <authors>N. Zanitti</authors>
+    <owners>N. Zanitti</owners>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>UserControl for DB Log</description>
+    <releaseNotes>First NuGet Version</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Data Loger</tags>
+  </metadata>
+</package>
