@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZbW.ProgAdvTestat.LogReader", "ZbW.ProgAdvTestat.LogReader\ZbW.ProgAdvTestat.LogReader.csproj", "{AF9794BE-9A07-4583-A013-1E4DBF6B853C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZbW.ProgAdvTestat.MainFrame", "ZbW.ProgAdvTestat.MainFrame\ZbW.ProgAdvTestat.MainFrame.csproj", "{A0A84756-35C0-4278-A6D2-2ECB66D4855E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF9794BE-9A07-4583-A013-1E4DBF6B853C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9794BE-9A07-4583-A013-1E4DBF6B853C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9794BE-9A07-4583-A013-1E4DBF6B853C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9794BE-9A07-4583-A013-1E4DBF6B853C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A84756-35C0-4278-A6D2-2ECB66D4855E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A84756-35C0-4278-A6D2-2ECB66D4855E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A84756-35C0-4278-A6D2-2ECB66D4855E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A84756-35C0-4278-A6D2-2ECB66D4855E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {407A04D2-4C1E-488E-AF00-E41C448DEA5A}
+	EndGlobalSection
+EndGlobal
